@@ -1,0 +1,288 @@
+body{
+  background-color:burlywood;
+}
+
+table{
+    display: flex;
+    justify-content: center;
+    margin-top: 150px;
+    margin-bottom: 150px;
+    ;
+  
+  }
+  table {
+    width: 80%;
+    border-collapse: collapse;
+    }
+      
+   .fondo-tabla{
+      background-color: aqua;
+      margin-left: 500px;
+      margin-right: 500px;
+      margin-top: 150px;
+      margin-bottom: 150px;
+      border: 500px;
+   }
+
+  th {
+    text-align: center;
+    padding: 20px;
+    border: 1px solid black;
+   vertical-align: top;
+  }
+  td {
+    padding: 20px;
+    border: 1px solid black;
+  }
+
+  .colores {
+    vertical-align: top;
+    justify-content: center;
+    background-color: green;
+    font-family: Times New Roman;
+    font-size: 25px;
+    text-decoration-color: black;
+    font-weight: bold;
+  }
+
+  .black {
+    background-color: black;
+    text-align: left;
+    font-size: 20px;
+    font-weight: bold;
+    color:black
+  }
+  
+  .teal {
+    background-color: teal;
+    text-align: left;
+    font-size: 20px;
+    font-weight: bold;
+    color:black
+  }
+  
+  .blue {
+    background-color: #0000ff; 
+    text-align: left;
+    font-size: 20px;
+    font-weight: bold;
+    color:black
+  }
+  
+  .navy {
+    background-color: navy; 
+    text-align: left;
+    font-size: 20px;
+    font-weight: bold;
+    color:black
+  }
+  
+  .lime {
+    background-color: lime;
+    text-align: left; 
+    font-size: 20px;
+    font-weight: bold;
+    color:black
+  }
+  
+  .white {
+    background-color: white; 
+    text-align: left;
+    font-size: 20px;
+    font-weight: bold;
+    color:black
+  }
+  .purple {
+    background-color: purple;
+    text-align: left; 
+    font-size: 20px;
+    font-weight: bold;
+    color:black
+  }
+  
+  .yellow {
+    background-color: yellow; 
+    text-align: left;
+    font-size: 20px;
+    font-weight: bold;
+    color:black
+  }
+  
+  .olive {
+    background-color: olive; 
+    text-align: left;
+    font-size: 20px;
+    font-weight: bold;
+    color:black
+  }
+  
+  .red {
+    background-color: red;
+    text-align: left;
+    font-size: 20px;
+    font-weight: bold;
+    color:black
+  }
+  
+  .marron {
+    background-color: brown; 
+    text-align: left;
+    font-size: 20px;
+    font-weight: bold;
+    color:black
+  }
+  
+  .gray {
+    background-color: gray; 
+    text-align: left;
+    font-size: 20px;
+    font-weight: bold;
+    color:black
+  }
+  .olive {
+    background-color: olive; 
+    text-align: left;
+    font-size: 20px;
+    font-weight: bold;
+    color:black
+  }
+  
+  .red {
+    background-color: red; 
+    text-align: left;
+    font-size: 20px;
+    font-weight: bold;
+    color:black
+  }
+  
+  .fuchsia {
+    background-color: fuchsia; 
+    text-align: left;
+    font-size: 20px;
+    font-weight: bold;
+    color:black
+  }
+  
+  .green {
+    background-color: green; 
+    text-align: left;
+    font-size: 20px;
+    font-weight: bold;
+    color:black
+  }
+
+
+  .blackleter {
+    color: black;
+    text-align: left;
+    font-size: 20px;
+    font-weight: bold;
+  }
+  .tealleter {
+    color: teal;
+    text-align: left;
+    font-size: 20px;
+    font-weight: bold;
+  }
+  .blueleter {
+    color: blue;
+    text-align: left;
+    font-size: 20px;
+    font-weight: bold;
+  }
+  .navyleter {
+    color: navy;
+    text-align: left;
+    font-size: 20px;
+    font-weight: bold;
+  }
+  .limeleter {
+    color: lime;
+    text-align: left;
+    font-size: 20px;
+    font-weight: bold;
+  }
+  .whiteleter {
+    color: white;
+    text-align: left;
+    font-size: 20px;
+    font-weight: bold;
+  }.purpleleter {
+    color: purple;
+    text-align: left;
+    font-size: 20px;
+    font-weight: bold;
+  }
+  .yellowleter {
+    color: yellow;
+    text-align: left;
+    font-size: 20px;
+    font-weight: bold;
+  }
+  .oliveleter {
+    color: olive;
+    text-align: left;
+    font-size: 20px;
+    font-weight: bold;
+  }
+  .redleter {
+    color: red;
+    text-align: left;
+    font-size: 20px;
+    font-weight: bold;
+  }
+  .marronleter {
+    color: brown;
+    text-align: left;
+    font-size: 20px;
+    font-weight: bold;
+  }
+  .grayleter {
+    color: grey;
+    text-align: left;
+    font-size: 20px;
+    font-weight: bold;
+  }
+  .oliveleter {
+    color: olive;
+    text-align: left;
+    font-size: 20px;
+    font-weight: bold;
+  }
+  .redleter {
+    color: red;
+    text-align: left;
+    font-size: 20px;
+    font-weight: bold;
+  }
+  .fucsialeter {
+    color: fuchsia;
+    text-align: left;
+    font-size: 20px;
+    font-weight: bold;
+  }
+  .greenleter {
+    color: green;
+    text-align: left;
+    font-size: 20px;
+    font-weight: bold;
+  } 
+  .aqua {
+    color: aqua;
+    text-align: left;
+    font-size: 20px;
+    font-weight: bold;;
+  }
+  .silver {
+    color: silver;
+    text-align: left;
+    font-size: 20px;
+    font-weight: bold;
+  }
+  .leters {
+    vertical-align: top;
+    justify-content: center;
+    font-family: Times New Roman;
+    font-size: 25px;
+    text-decoration-color: black;
+    font-weight: bold;
